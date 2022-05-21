@@ -1,0 +1,38 @@
+header{
+
+    font-size: 38px;
+    color: white;
+}
+
+body{
+
+    color: wheat;
+}
+
+body{
+
+    background-image: url(https://cdn.discordapp.com/attachments/735984479906037845/977352968384946187/background.jpg);
+}
+
+body > div.important > center > a > img{
+
+    height: 100px;
+}
+
+body > div.download-season > center > a > img{
+
+    height: 150px;
+    border-radius: 8px;
+}
+
+body > div.lawinserver > center > a > img{
+
+    height: 150px;
+    border-radius: 8px;
+}
+
+body > div.console-unlocker > center > a > img{
+
+    height: 150px;
+    border-radius: 8px;
+}
